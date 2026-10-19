@@ -6,9 +6,8 @@ for **Stereopsis, created by Mark / FreeMark**.
 Original project: https://github.com/FreeMark/eyesy-stereopsis
 
 This repository is a contributor source handoff for Mark to review and integrate.
-It is **not a standalone installer, firmware image, or official upstream release**.
-The earlier installer prototype was removed from the current tree; it remains in
-Git history. Download this repository using **Code → Download ZIP**.
+It contains source contributions, not a firmware image or official upstream release.
+Download this repository using **Code → Download ZIP**.
 
 ## What is included
 

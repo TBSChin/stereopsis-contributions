@@ -1,0 +1,12 @@
+{
+  "package": "stereopsis-contributions",
+  "project_creator": "Mark / FreeMark",
+  "contributor": "TBSmike",
+  "official_upstream_release": false,
+  "version": "0.1.0-dev",
+  "release_approved": false,
+  "tested_stereopsis": [],
+  "files": [],
+  "upstream": "https://github.com/FreeMark/eyesy-stereopsis",
+  "safety_note": "No production install profiles approved. Never download and execute a moving upstream branch."
+}

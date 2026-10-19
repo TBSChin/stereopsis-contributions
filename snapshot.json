@@ -1,0 +1,33 @@
+{
+  "basis": "Saved successful update sources; device offline at export",
+  "upstream": "https://github.com/FreeMark/eyesy-stereopsis",
+  "upstream_version_basis": "0.11",
+  "creator": "Mark / FreeMark",
+  "contributor": "TBSmike",
+  "modes": [
+    "Swarm - Text",
+    "Swarm - Tunnel",
+    "Swarm - Ribbon",
+    "Swarm - Terrain",
+    "Swarm - Terrain Convergence",
+    "Swarm - Terrain Back to Front",
+    "Swarm - Tesseract",
+    "Swarm - Icosa Cages",
+    "Swarm - Torus Knot",
+    "Swarm - Hopf Rings",
+    "Swarm - 24 Cell",
+    "Swarm - Dodeca Nest",
+    "Swarm - Morph Bloom",
+    "Swarm - Spiral Galaxy",
+    "Swarm - Orb",
+    "Swarm - Nebula",
+    "Swarm - Cymatics",
+    "Swarm - Flower of Life",
+    "Swarm - Kaleidoscope",
+    "Swarm - Kaleidoscope 3D",
+    "Swarm - Triangle Bloom",
+    "Swarm - Triangle 24 Cell"
+  ],
+  "font_permission": "Contributor explicitly confirmed redistribution permission; original font license document not supplied.",
+  "validation": "Python syntax checked. This consolidated snapshot has not been installed as a clean package."
+}

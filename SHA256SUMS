@@ -1,0 +1,58 @@
+51b3bf04e12696481fce7153d683ba559d49759025e915ced82957a312fb0d52  .gitignore
+66b839c9daff62bcef5e50bf58c498be730e76e668560a9db975d038a1e169ce  engine-changes/eyesy.py
+40daed06bda473205be6ece1d9e7a20927cf0f875e64629e530e813a1fee193a  engine-changes/preview.py
+3864e99926e4d1f0d5811fb422d85fd27a687dcfbc6183a247d46041fec8a3d7  engine-changes/ui_restart.py
+d25b1bc86d7a6d4028d2fb77b0a19b8fd8696364fda92bb4f478ceac75ae91cd  FONT-NOTICE.md
+d6a5d9640930236de79fdb395709535705686597b4688ff66fca4404cd8359aa  LICENSE
+8a1689a6c367a23b431fc345c6222cb357fd10229739debf177b1169d35f5f5f  Modes/Swarm - 24 Cell/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - 24 Cell/swarm.c
+992c5c962389aa77f90dbf5ac78c5aa4f63e9097e8748126425730b9ac8576ac  Modes/Swarm - Cymatics/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Cymatics/swarm.c
+3070d37b6371d5729943325d385f375004f6017fa5249d048591b0bd016b9269  Modes/Swarm - Dodeca Nest/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Dodeca Nest/swarm.c
+9d5125ac4466248f8bf961213d86780211168ae35fb8d2de8c7280d4b12cc6d4  Modes/Swarm - Flower of Life/flowerswarm.c
+31d9d149c949c723f747d2e5d385b792c2f822a0f749b54556ea118b48275349  Modes/Swarm - Flower of Life/glow.h
+ecce03e35442e037357b21fea77f7716b84f33858d972713fc2656bf88e9c993  Modes/Swarm - Flower of Life/main.py
+fb81ecf1e1ee4aa4eb4944acebee8c73bb6d226d6bcc9e55770f50564378129a  Modes/Swarm - Hopf Rings/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Hopf Rings/swarm.c
+13fa14715a09bd8efc607ebaf9334e9f8d40a8584bbf706e66734154892112e1  Modes/Swarm - Icosa Cages/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Icosa Cages/swarm.c
+31d9d149c949c723f747d2e5d385b792c2f822a0f749b54556ea118b48275349  Modes/Swarm - Kaleidoscope/glow.h
+aa5788486c780685340ebf861f702c324875b9989f4cf283c8bc8637a2d3affc  Modes/Swarm - Kaleidoscope/kaleidoswarm.c
+b451f80f979527d54cd8007d86299b7e2d268b792feb2ec7748067367610d0f9  Modes/Swarm - Kaleidoscope/main.py
+04ca42e36dc3b389a68ceea4e1a896f10012ef4ef9a2b5b042ac02cb632c673c  Modes/Swarm - Kaleidoscope 3D/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Kaleidoscope 3D/swarm.c
+32fffc8fa7639e08ff15413d95fbf5d945e0f15952d9e60e6a940b113486851e  Modes/Swarm - Morph Bloom/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Morph Bloom/swarm.c
+7edd3bca7b778d409d036d1a1c94667086bbcedba735388ce33bcbe75ff8afb5  Modes/Swarm - Nebula/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Nebula/swarm.c
+fcb1d29b19ef82cbc8bf6c57e840ba4ff1084630d90c414249a7d4c187f0f4c8  Modes/Swarm - Orb/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Orb/swarm.c
+c4bcb2327cdb53331b29a0479690d452c5a9638d071339acf469c73835a18504  Modes/Swarm - Ribbon/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Ribbon/swarm.c
+2eaa27d40db12c3682c8da725d32e70b9102246499642bb9ce36672ad599b7f3  Modes/Swarm - Spiral Galaxy/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Spiral Galaxy/swarm.c
+8d6f4fde83944f19fcfddf703ba5037082cb43c77dda5d66a0eb545b625f000b  Modes/Swarm - Terrain/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Terrain/swarm.c
+874fe936654c8a1b9b7d5e69da027ec4916948559f34f91df86acc02453a623e  Modes/Swarm - Terrain Back to Front/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Terrain Back to Front/swarm.c
+eef1882a537890aac07c02a85441aa5d16f544ba5af12c98c3dbad0baec33a7f  Modes/Swarm - Terrain Back to Front/swarm_handoff.py
+4342f90cb12643d0303698bb83c1ad74e9c631d297e25b6aa481af8377c682cb  Modes/Swarm - Terrain Convergence/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Terrain Convergence/swarm.c
+890be0875544656908aa1524b64e111d354740323dd22167e4279dfbf51cfada  Modes/Swarm - Tesseract/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Tesseract/swarm.c
+80b1284542f772820e004dc557a272a734f0488329ceacc7e2ab82dca7611c34  Modes/Swarm - Text/Futura_Heavy_Oblique.otf
+31d9d149c949c723f747d2e5d385b792c2f822a0f749b54556ea118b48275349  Modes/Swarm - Text/glow.h
+fcfeac63937a13ac66b74ad61fb85f251810b83d16ee97c61401342f800a7904  Modes/Swarm - Text/main.py
+9d5125ac4466248f8bf961213d86780211168ae35fb8d2de8c7280d4b12cc6d4  Modes/Swarm - Text/textswarm.c
+eed4f81e823d7b20af2fea90f9b9ee7dfe246692d10f3433d504854e9c8477c9  Modes/Swarm - Torus Knot/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Torus Knot/swarm.c
+91d740ada531eda25718cdcf1e403723bd85f45bd31e59523b8ca27fcdef689e  Modes/Swarm - Triangle 24 Cell/main.py
+ecb8669f3b736f9cb7e2f93f90da868b6bfb7b5438913150298ce0792003460c  Modes/Swarm - Triangle 24 Cell/swarm.c
+c63c97175f001614145e911465179ac09d82b5d54e2ed6c41152d01ad651099f  Modes/Swarm - Triangle Bloom/main.py
+ecb8669f3b736f9cb7e2f93f90da868b6bfb7b5438913150298ce0792003460c  Modes/Swarm - Triangle Bloom/swarm.c
+69071e8f627522c3d92069227dfcd907db1713adeffd6b43c13671c6b36e99aa  Modes/Swarm - Tunnel/main.py
+8d588bb2dd3835af606348952e9cc511b198454b45efe48a69b737dc82c4fd73  Modes/Swarm - Tunnel/swarm.c
+dcfe929c3bd4da89a521ef3cbe1e488a19060cd33c389b853a962c5e2fd81ddc  README.md
+48462d153a9874b92602e5f409cc4ac9fbc3bae08a9fa4e492c84704eece4cea  snapshot.json
+2827c2c5b0e6f4caaac4a4f135d27d657bdda452ebb1bfeb48c2e422f2a2ea8f  verify_sources.py

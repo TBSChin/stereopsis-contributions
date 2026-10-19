@@ -1,65 +1,74 @@
-# Stereopsis contributor installer — development build
+# Stereopsis contributions by TBSmike
 
-Stereopsis is Mark / FreeMark's project: https://github.com/FreeMark/eyesy-stereopsis.
-TBSmike is contributing additional formations, guitar tuning, and interface enhancements.
-This is an unofficial contributor installer prototype, not a separate replacement
-project or a claim of upstream endorsement. Preserve upstream attribution and
-license notices in any future distribution.
+Additional Swarm formations, guitar-reactive tuning, and browser-control changes
+for **Stereopsis, created by Mark / FreeMark**.
 
-This is personal EYESY work. No Lamb Chops integration.
+Original project: https://github.com/FreeMark/eyesy-stereopsis
 
-## Windows portable app
+This repository is a contributor source handoff for Mark to review and integrate.
+It is **not a standalone installer, firmware image, or official upstream release**.
+The earlier installer prototype was removed from the current tree; it remains in
+Git history. Download this repository using **Code → Download ZIP**.
 
-Development preview only: download the Windows ZIP, extract the entire folder,
-and double-click `Stereopsis-Contributor-Installer.exe`. Python is bundled.
-The launcher opens the artistic interface in your default browser. Keep its
-small launcher window open while using the interface; close it to stop the app.
-The live Check EYESY action is read-only. Installation/recovery are not yet
-implemented, and the install button stays disabled. This is for Mark's review,
-not a public production installer. Unsigned Windows builds may show warnings.
+## What is included
 
-Build from source on Windows:
+- `Modes/`: 22 complete Swarm source folders, including the custom geometric
+  formations and triangle-particle variants alongside modified upstream Swarms.
+- `engine-changes/`: modified Stereopsis `preview.py`, `eyesy.py`, and the detached
+  restart helper, for upstream review rather than blind replacement.
+- `snapshot.json`: source basis and validation limitations.
+- `SHA256SUMS`: file integrity hashes.
 
-```
-python -m pip install pyinstaller==6.22.3
-powershell -ExecutionPolicy Bypass -File build-windows.ps1
-```
+Highlights: graph-traveling waves through Tesseract and Icosa Cages; stronger
+24 Cell edge deformation; Orb spectrum spread around the sphere; reduced/removed
+hard pulses in Tunnel, Ribbon, Orb, and Nebula; fixed-black backgrounds and K5
+Audio Strength where K5 formerly controlled background/scatter; Persist support;
+mode-order UI; knob labels; and independent optional second/third text lines.
+Morph, nesting, and arm-twist controls remain on their applicable formations.
 
-Only the installer directory is intended for the GitHub repository. Do not
-publish the surrounding personal workspace, saved device backups, or settings.
+## Using the files
 
-## Run the read-only compatibility check
+These changes were developed against Stereopsis 0.11 on EYESY OS 3.1. They are
+not promised compatible with other releases. Back up the original folders first.
 
-Requires Python 3.9 or newer; no extra packages.
+For Mark: merge the native renderer changes as one shared implementation and
+review the browser/engine changes against your current branch. The 3D modes use
+4096 particles and the same native ABI/style IDs; **do not mix old/new kernels**.
+Round and triangle modes intentionally have different particle rasterizers.
 
-```
-python install.py 192.168.50.4 --check
-```
+For experienced users already running a compatible Stereopsis: the `Modes/`
+folders are laid out for uploading via EYESY's Wi-Fi web editor. Keep each folder
+complete. Compilation happens on EYESY; `.so` files are deliberately not included.
+The transition helper lives in `Swarm - Terrain Back to Front`, so keep that folder
+available. Existing numerically named upstream folders are not automatically
+renamed or removed by this source download. Do not overwrite your own modes.
 
-The default is also read-only. `--install` is deliberately blocked, even on a
-recognized firmware. No force flag bypasses the checks. No network write,
-restart, reboot, firmware flash, partition, or boot-file operations exist here.
+**Do not blindly copy `engine-changes/` over another Stereopsis version.** These
+are reviewable full-source modifications, not a version-aware installation patch.
+Restart controls use a detached `systemd-run` task; device reboot remains less
+tested than video restart. No personal mode-order file is included. Engine
+integration is needed to enable custom saved ordering and the new text controls.
 
-The stock OS 3.1 fingerprint comes from the upstream installer. A matching
-fingerprint is identification evidence, NOT clean-install validation. Stereopsis
-installation metadata alone is likewise not sufficient to approve an update.
+## Font and personal content
 
-## Remaining implementation and release gates
+`Swarm - Text` includes `Futura_Heavy_Oblique.otf`, supplied by TBSmike, who
+explicitly confirmed permission to redistribute it. The font is not relicensed
+under the source-code MIT license. See `FONT-NOTICE.md`.
 
-- Capture and reconcile the current Swarm sources into reproducible components.
-  Exclude personal text, user fonts, scenes, compiled caches, and removed modes.
-- Resolve upstream licenses and attribution before redistributing code/assets.
-- Pin an upstream Stereopsis commit and verify every downloaded file hash.
-  Do not run upstream `--force` or silently pull latest main.
-- Separate custom modes, optional stock-mode guitar tuning, and UI enhancements.
-- Approve exact stock and existing-Stereopsis baseline fingerprints; reject
-  user-modified files instead of overwriting them silently.
-- Implement staged uploads, space checks, verified original backups, a durable
-  transaction journal, readback verification, and conflict-aware uninstall.
-- Recovery must not require the video engine. A disconnected installer cannot
-  promise automatic recovery without a separately tested on-device watchdog.
-- Test clean stock, existing Stereopsis, updates, disconnects, power loss,
-  insufficient storage, failed engine startup, recovery, and uninstall on a spare
-  SD card before enabling production writes.
+Personal saved texts, scenes, network addresses, mode-order preferences, settings,
+compiled binaries, native crash guards, and device backups are excluded.
 
-No claim of zero risk or public-release readiness is made.
+## Snapshot limitations
+
+The device was offline during export. This consolidates the saved source files
+used for successful incremental updates, **not a fresh live-device backup**.
+Python syntax was checked; this exact consolidated download still needs an
+integration test. Other custom non-Swarm modes and factory-mode deletions are not
+part of this handoff. No one-click installation or guaranteed recovery is claimed.
+
+## Attribution
+
+Stereopsis and the original Swarm implementation: **Mark / FreeMark**.
+Additional formations, tuning, and interface contributions: **TBSmike**.
+Original source comments and notices are preserved. This is independent personal
+work, not an official TBS product or a Critter & Guitari release.

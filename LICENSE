@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2026 TBSmike
+Copyright (c) 2026 FreeMark
+Copyright (c) 2026 TBSmike (contributions)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,6 +21,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This license covers the contributor installer code, not Stereopsis or other
-third-party code/assets. Stereopsis is by Mark / FreeMark and retains its own
-license and attribution. No upstream code or mode assets are bundled here.
+The bundled font is not covered by this source-code license. See FONT-NOTICE.md.

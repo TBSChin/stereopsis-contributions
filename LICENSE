@@ -1,3 +1,10 @@
+License scope
+=============
+The MIT terms below cover Stereopsis and TBSmike source contributions only.
+Critter & Guitari and community modes retain their separate licenses.
+See THIRD-PARTY-NOTICES.md, licenses/, per-mode ATTRIBUTION.md and source headers.
+The bundled font has separate terms in FONT-NOTICE.md.
+
 MIT License
 
 Copyright (c) 2026 FreeMark

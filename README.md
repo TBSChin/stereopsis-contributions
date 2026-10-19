@@ -11,8 +11,11 @@ Download this repository using **Code → Download ZIP**.
 
 ## What is included
 
-- `Modes/`: 22 complete Swarm source folders, including the custom geometric
-  formations and triangle-particle variants alongside modified upstream Swarms.
+- `Modes/`: 145 curated mode source folders: 20 Swarms, 94 Critter & Guitari
+  modes, 28 community modes, and 3 additional Stereopsis/derived modes.
+- `THIRD-PARTY-NOTICES.md`: original authors, source links and license mapping.
+- `licenses/` and per-mode `ATTRIBUTION.md`: applicable third-party terms.
+- `ORIGINAL-DOWNLOADS.md`: links only for eight modes with unresolved permissions.
 - `engine-changes/`: modified Stereopsis `preview.py`, `eyesy.py`, and the detached
   restart helper, for upstream review rather than blind replacement.
 - `snapshot.json`: source basis and validation limitations.
@@ -24,6 +27,8 @@ hard pulses in Tunnel, Ribbon, Orb, and Nebula; fixed-black backgrounds and K5
 Audio Strength where K5 formerly controlled background/scatter; Persist support;
 mode-order UI; knob labels; and independent optional second/third text lines.
 Morph, nesting, and arm-twist controls remain on their applicable formations.
+Soundfield Galaxy and Soundfield Splats 2 use fixed black and K5 Audio Strength (0x / 1x / 2x),
+applied after automatic level normalization; manual Trigger remains independent.
 
 ## Using the files
 
@@ -59,11 +64,17 @@ compiled binaries, native crash guards, and device backups are excluded.
 
 ## Snapshot limitations
 
-The device was offline during export. This consolidates the saved source files
-used for successful incremental updates, **not a fresh live-device backup**.
-Python syntax was checked; this exact consolidated download still needs an
-integration test. Other custom non-Swarm modes and factory-mode deletions are not
-part of this handoff. No one-click installation or guaranteed recovery is claimed.
+The curated source was exported from the live device on 2026-10-19. Python
+syntax and file hashes were checked; this exact consolidated download still
+needs a clean-device integration test. This is not a complete device backup.
+Community modes may include TBSmike guitar-response tuning; they are not claimed
+to be byte-identical to their authors' current downloads. The optional VCR font
+is omitted; that mode retains its existing default-font fallback.
+No one-click installation or guaranteed recovery is claimed.
+
+Matrix Rain, both Swarm Kaleidoscope variants, Spiral Alley, Spirograph and
+Nested Ellipses - Outlines are intentionally excluded at TBSmike's request.
+Kaleid-O-Tron and Nested Ellipses - Filled are retained.
 
 ## Attribution
 
@@ -71,3 +82,7 @@ Stereopsis and the original Swarm implementation: **Mark / FreeMark**.
 Additional formations, tuning, and interface contributions: **TBSmike**.
 Original source comments and notices are preserved. This is independent personal
 work, not an official TBS product or a Critter & Guitari release.
+
+Critter & Guitari and community authors retain ownership of their modes.
+This collection is **not all MIT licensed**: retain the separate licenses,
+credits, and original source notices when sharing it. See THIRD-PARTY-NOTICES.md.

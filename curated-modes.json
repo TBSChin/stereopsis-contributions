@@ -1,0 +1,1619 @@
+{
+  "basis": "Live EYESY export; curated inventory only, not personal scene/config data",
+  "stock_reference_commit": "22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6",
+  "modes": [
+    {
+      "mode": "Swarm - Text",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "b21e13b5ad19ceda648646d2221790587231589dc19b6b26e5c63ee18bef58c0"
+    },
+    {
+      "mode": "Swarm - Tunnel",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "69071e8f627522c3d92069227dfcd907db1713adeffd6b43c13671c6b36e99aa"
+    },
+    {
+      "mode": "Swarm - Ribbon",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "c4bcb2327cdb53331b29a0479690d452c5a9638d071339acf469c73835a18504"
+    },
+    {
+      "mode": "Swarm - Terrain",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "8d6f4fde83944f19fcfddf703ba5037082cb43c77dda5d66a0eb545b625f000b"
+    },
+    {
+      "mode": "Swarm - Terrain Convergence",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "4342f90cb12643d0303698bb83c1ad74e9c631d297e25b6aa481af8377c682cb"
+    },
+    {
+      "mode": "Swarm - Terrain Back to Front",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "874fe936654c8a1b9b7d5e69da027ec4916948559f34f91df86acc02453a623e"
+    },
+    {
+      "mode": "Swarm - Tesseract",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "890be0875544656908aa1524b64e111d354740323dd22167e4279dfbf51cfada"
+    },
+    {
+      "mode": "Swarm - Icosa Cages",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "13fa14715a09bd8efc607ebaf9334e9f8d40a8584bbf706e66734154892112e1"
+    },
+    {
+      "mode": "Swarm - Torus Knot",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "eed4f81e823d7b20af2fea90f9b9ee7dfe246692d10f3433d504854e9c8477c9"
+    },
+    {
+      "mode": "Swarm - Hopf Rings",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "fb81ecf1e1ee4aa4eb4944acebee8c73bb6d226d6bcc9e55770f50564378129a"
+    },
+    {
+      "mode": "Swarm - 24 Cell",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "8a1689a6c367a23b431fc345c6222cb357fd10229739debf177b1169d35f5f5f"
+    },
+    {
+      "mode": "Swarm - Dodeca Nest",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "3070d37b6371d5729943325d385f375004f6017fa5249d048591b0bd016b9269"
+    },
+    {
+      "mode": "Swarm - Morph Bloom",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "32fffc8fa7639e08ff15413d95fbf5d945e0f15952d9e60e6a940b113486851e"
+    },
+    {
+      "mode": "Swarm - Spiral Galaxy",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "2eaa27d40db12c3682c8da725d32e70b9102246499642bb9ce36672ad599b7f3"
+    },
+    {
+      "mode": "Swarm - Orb",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "fcb1d29b19ef82cbc8bf6c57e840ba4ff1084630d90c414249a7d4c187f0f4c8"
+    },
+    {
+      "mode": "Swarm - Nebula",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "7edd3bca7b778d409d036d1a1c94667086bbcedba735388ce33bcbe75ff8afb5"
+    },
+    {
+      "mode": "Swarm - Cymatics",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "992c5c962389aa77f90dbf5ac78c5aa4f63e9097e8748126425730b9ac8576ac"
+    },
+    {
+      "mode": "Swarm - Flower of Life",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "ecce03e35442e037357b21fea77f7716b84f33858d972713fc2656bf88e9c993"
+    },
+    {
+      "mode": "Swarm - Triangle Bloom",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "c63c97175f001614145e911465179ac09d82b5d54e2ed6c41152d01ad651099f"
+    },
+    {
+      "mode": "Swarm - Triangle 24 Cell",
+      "category": "Stereopsis / TBSmike Swarm",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "91d740ada531eda25718cdcf1e403723bd85f45bd31e59523b8ca27fcdef689e"
+    },
+    {
+      "mode": "Soundfield Splats 2",
+      "category": "FreeMark / Stereopsis",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "11d98eada0be8be65499e9f5a3c9f281490e0e78fad5dcbcfe749e35c0e13614",
+      "contribution_note": "TBSmike: fixed black background and K5 Audio Strength, scaled after automatic normalization; manual Trigger preserved."
+    },
+    {
+      "mode": "S - Soundfield Galaxy",
+      "category": "TBSmike / FreeMark MIT derivative",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "2c10b2cffbb71bd95cad743f2c3bf0f7c392c5e952e7b71188e8fabc4fff4569",
+      "contribution_note": "TBSmike: fixed black background and K5 Audio Strength, scaled after automatic normalization; manual Trigger preserved."
+    },
+    {
+      "mode": "AudioSpiralScope",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/audiospiralscope/",
+      "device_main_sha256": "c84e2091e043eaea9207c8beae23e6509d96eee246bba47d1f3b3d0b577fc20f",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "BarBounce",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/barbounce/",
+      "device_main_sha256": "7a61cbf931cb242cfb3b53b3bbc2cdf5c847cb4070eee3099e26c2c30b1b50f1",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "ColorHearts",
+      "category": "Community / permission unresolved",
+      "status": "catalog only",
+      "source": "https://patchstorage.com/colorhearts/",
+      "device_main_sha256": "46d42cce719ae56195b2a4038f5904066511e40d822baa9537ec7589e01ec75e",
+      "license_hint": "No verified license/source recorded"
+    },
+    {
+      "mode": "ColorHeartsDeluxe",
+      "category": "Community / permission unresolved",
+      "status": "catalog only",
+      "source": "https://patchstorage.com/colorheartsdeluxe/",
+      "device_main_sha256": "90c0f092107dad7be1c7edab335089a0a0027153a4188d34aa534b398d2c9cbd",
+      "license_hint": "No verified license/source recorded"
+    },
+    {
+      "mode": "ColorThing",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/colorthing/",
+      "device_main_sha256": "cfbb647eb0eeb04137f8106f57f3e4081c24115ae381b22169cc3a5ada5cd189",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "OscilloFlow",
+      "category": "Community / permission unresolved",
+      "status": "catalog only",
+      "source": "https://patchstorage.com/oscilloflow/",
+      "device_main_sha256": "f6a1e56e34782322818ea1d0064941f2030a28e5aaccf28448ce84d1254559e4",
+      "license_hint": "#   OscilloFlow by TRC 2026 / Art by https://github.com/akaienso/fortune-mod-lebowski"
+    },
+    {
+      "mode": "Cubicles (3D Audio Responsive Cubes)",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/3d-audio-responsive-cubes/",
+      "device_main_sha256": "ba17b43b63fdb30da93e8d3ba2aa2c1c1aa5b854427c105221d15228e9bc96b3",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "shotsy"
+      ],
+      "license": "Unlicense"
+    },
+    {
+      "mode": "DarkStar",
+      "category": "Community / permission unresolved",
+      "status": "catalog only",
+      "source": "https://patchstorage.com/%e2%98%85-darkstar/",
+      "device_main_sha256": "1f3dad4d8d8109fba6046d8cafbc80fe35b1090eace1cca8326e8a1e06ffea1e",
+      "license_hint": "# Starfield code blatantly pirated from https://patchstorage.com/s-elite/"
+    },
+    {
+      "mode": "Death Disco Dancefloor",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/death-disco-dancefloor/",
+      "device_main_sha256": "2c662c74638ad84b814a34f97025e852b968a6a82d61bff2ec38f2d69339272c",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "HypnoGrid",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/hypnogrid/",
+      "device_main_sha256": "65f381fb13524d83cec7e8f96f9f434b0a1e3b9fb2b621313c896d4908efd149",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon",
+        "tele__visiones"
+      ],
+      "license": "CC0-1.0"
+    },
+    {
+      "mode": "Interplanetary Combat",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/%f0%9f%9b%b8interplanetary-combat%f0%9f%9b%b8/",
+      "device_main_sha256": "8d90de54cd618af19157ce6a33adde0ad8e35d05a33aba98cee433fc4e206d27",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "teegee",
+        "tim-harrison",
+        "vanson-jackets",
+        "marilyn_joe",
+        "kristen_baran",
+        "manedwolf",
+        "turbulent-resonant-colon"
+      ],
+      "license": "CC0-1.0"
+    },
+    {
+      "mode": "Kaleid-O-Tron",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/kaleid-o-tron/",
+      "device_main_sha256": "a04ccbef9c910a810b2ef863caee64eb11cbfe349d2c416124e18aaf07fd27e7",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "KRAKEN",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/%f0%9f%90%99kraken%f0%9f%90%99/",
+      "device_main_sha256": "480a8b4352bee008661da39bc06d2f02e80a96b5bc6e705a059cdd0ef93a6060",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "CC0-1.0"
+    },
+    {
+      "mode": "Left & Right Scopes",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/left-right-scopes/",
+      "device_main_sha256": "12ae8121b15d44a22165c35eb4ac0b9e78a99099ef2df5a512c83d6d5540543e",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "critterandguitari"
+      ],
+      "license": "BSD-3-Clause"
+    },
+    {
+      "mode": "Randumbizer LFO SWEEP O+-TR",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/randumbizer-lfo-sweep-o-tr/",
+      "device_main_sha256": "f659422d21e5f01104a021f9ef5e0ecd4e368d84ed19dcc3f35eb829850b4f14",
+      "license_hint": "# New code copyright (c) 2025 Martin Defatte",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-3-Clause"
+    },
+    {
+      "mode": "Randumbizer VCR O+-TR",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/randumbizer-vcr-o-tr/",
+      "device_main_sha256": "218ea8c73d5017c9acedd2aa8481c24feafa8b1ab5662047e7cdc9d2dac5b422",
+      "license_hint": "# New code copyright (c) 2025 Martin Defatte",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-3-Clause"
+    },
+    {
+      "mode": "Recaman And Roll",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/recaman-and-roll/",
+      "device_main_sha256": "d1d4aabf684db6637020c3501cf0f008feddf0566ef906286d57348e5b8187be",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "RetroRorschach",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/retrororschach/",
+      "device_main_sha256": "e0555ec66792af2d59c4a0193a9cf0897d9c9cbc05f3efea5e3d795bbc347b8b",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "S - 0 Arrival Scope",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%200%20Arrival%20Scope",
+      "device_main_sha256": "a066419064111b08da23e0bc34da0dfae8a352dfc6b4b1790d7be98462f65aa3",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - AA Selector",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20AA%20Selector",
+      "device_main_sha256": "7cc59d4827fabd6f1272215f0c423a9013b570ebfb221e791170580fef8e7f05",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Amp Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Amp%20Color",
+      "device_main_sha256": "5700f4ded16d2180c1d3da0845d427fb64a25f5dc9a1095c029bb6e60322e5dc",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Amp Color - 5gon Filled",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Amp%20Color%20-%205gon%20Filled",
+      "device_main_sha256": "4d20a9e76861b726b3d48751dfe1bcb2b0ef34f070af825131ec1432b4e78237",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Amp Color - 5gon Outlines",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Amp%20Color%20-%205gon%20Outlines",
+      "device_main_sha256": "2182b12e962cb0380e69799025116ac2909deaf01ed1834dae22420266c5334c",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Amp Color - Circles",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Amp%20Color%20-%20Circles",
+      "device_main_sha256": "1b83cb077e160ee869ec68934a3862398f494b5d5482ba180bf92f7a761e1999",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Amp Color - Rectangles",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Amp%20Color%20-%20Rectangles",
+      "device_main_sha256": "9c17b090d02cb11ad136f43a0a892dab09e2caebceb26cfc8bacea789f595783",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Arcway",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Arcway",
+      "device_main_sha256": "acd15a96dc2bdbdf0b71ba940341614b31a09a039617b97b847a0a31ffafd779",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Arcway Black",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Arcway%20Black",
+      "device_main_sha256": "b79c0bc407c7117d561c62843f817f39d62afd7065e9e97759097f7ae07b6dd7",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Audio Printer",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Audio%20Printer",
+      "device_main_sha256": "6c87e1c33e4495939e411496921aa0f0d9748a4c169d4e8ee33dbee6d114bba8",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Audio Waveform",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/s-audio-waveform/",
+      "device_main_sha256": "cf853f676aeeee92022f7ce6f9cf110bc500430d6baf66c1b2152277309b752b",
+      "license_hint": "# BSD 2-Clause License",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-2-Clause"
+    },
+    {
+      "mode": "S - Bezier H Scope",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Bezier%20H%20Scope",
+      "device_main_sha256": "a842e2e2a81412ae2f8df8a1830bd0fe6d8c13aa7fca520f21456cc9fd15bbef",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Bezier V Scope",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Bezier%20V%20Scope",
+      "device_main_sha256": "2486cc2aec67f752ef04580486e065909da0da2fe60e8c0cc1225632f990f393",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Bits Horizontal",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Bits%20Horizontal",
+      "device_main_sha256": "179e9e33860430cb6c5648267b9c7c129fc13491c88ff2f3b3f78277ad5c8ae0",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Bits Vertical",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Bits%20Vertical",
+      "device_main_sha256": "53377bb5027b92ce7fce79aefe7d5a0d4a9bdf7ec7d3f7157807ef747be1c4a0",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Boids",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Boids",
+      "device_main_sha256": "b030786a3c884b68fb0d2db7e2598bd652a561bc679eb705ca40dd29840b9863",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Breezy Feather LFO",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Breezy%20Feather%20LFO",
+      "device_main_sha256": "3428d935e632bb08c79fbe37755874737f992178e1dcb964c4d0c0cdc48500bb",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Chladni Resonance",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/s-chladni-resonance/",
+      "device_main_sha256": "9535a8f6b5ecede9e6102e60c50c591ae94024329eb9a7640fc8b88e60470ca5",
+      "license_hint": "# BSD 2-Clause License",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-2-Clause"
+    },
+    {
+      "mode": "S - Circle Grid",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/s-circle-grid/",
+      "device_main_sha256": "29b48aff423286c8519a3da078b0629061ca32aead2b4d447b9e41c6f760ee13",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-2-Clause"
+    },
+    {
+      "mode": "S - Circle Row - LFO",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Circle%20Row%20-%20LFO",
+      "device_main_sha256": "832e8e6d10e0ac84f123ac2d81326de8ea7489998f295ac3d01ed566b7d3cbeb",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Circle Scope",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Circle%20Scope",
+      "device_main_sha256": "311504e40f1549bb475249219b99c065df6f3b060dbe459c4cb2bf672d5df4ca",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Circle Scope - Image",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Circle%20Scope%20-%20Image",
+      "device_main_sha256": "a34b624b3261721c5535ce0047bb2ba0bec285da261fc1563037bac71e263eea",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Circle Scope - Opposite Colors",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Circle%20Scope%20-%20Opposite%20Colors",
+      "device_main_sha256": "3921e3bd0db09ebb626b1b7b5d90f4307d3f4499b884ceed613294653593f164",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Circular Trigon Field",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Circular%20Trigon%20Field",
+      "device_main_sha256": "d8503ced9b895221fbe35cd3d6260356e5b64f1051d59ad3ce5fc6152aebe2b6",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Classic Horizontal",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Classic%20Horizontal",
+      "device_main_sha256": "6b768efefb0f640b94e28b736e5abd21bcd9abaf06f8645dfc6e13768ded036e",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Classic Vertical",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Classic%20Vertical",
+      "device_main_sha256": "fece9c18526342f437f458209f8d5864cde79371d377511da2326a77620b3c7b",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Concentric",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Concentric",
+      "device_main_sha256": "ff1496f3bcd1eb39e1442d462029ed90bb5d7f2086a2cd444f10b6b955a86876",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Cone Scope",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Cone%20Scope",
+      "device_main_sha256": "b705502e2b7c4d3d454b8a1ae93ecdf22bf34a1dce0196cdc73b1da5942d244a",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Five Lines Spin",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Five%20Lines%20Spin",
+      "device_main_sha256": "2ab7b7270a598f8e71bd8667312ad73b17ce0bfacb22f96519acff21de2a4258",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Folia Angles",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Folia%20Angles",
+      "device_main_sha256": "325b949d6a6ec1c32911be186cb275bcdeea64cccf591466a25d32590c50aff0",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Folia Curves",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Folia%20Curves",
+      "device_main_sha256": "8a2a19c0792d0b37c4156ece6c88d00516533a32a6677226e7be11c28717ceac",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Football Scope",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Football%20Scope",
+      "device_main_sha256": "d12c55cc950794b85eba80a85e75940fa64fc32a52939831706077249a8d928a",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Googly Eyes",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Googly%20Eyes",
+      "device_main_sha256": "c638137f800b763910b398ee0794a69bb92f3f327a401f656f526c02f05e3f28",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Gradient Cloud",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Gradient%20Cloud",
+      "device_main_sha256": "1873a69ca51f6cedd7b326f0f59db9297e1037cae44e859be78aea2fd4010a64",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Gradient Column",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Gradient%20Column",
+      "device_main_sha256": "6662cc3efd841976a7368c6f1a7365808ea4ad2560152a9fe06e1cb3d8be83da",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Gradient Friend",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Gradient%20Friend",
+      "device_main_sha256": "41a1f616a59b04324957d63ad663549330604705e4291ba0f3874b2407a2947c",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Circles - Column Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Circles%20-%20Column%20Color",
+      "device_main_sha256": "3bf44fac04ffcf65fa535e9087dcb95d2d636737e2c7f1832b7533aaf6d655ae",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Circles - Outlined",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Circles%20-%20Outlined",
+      "device_main_sha256": "95ce11dbc1019353628eb75ceca2fa9bbcef78153acbbf8563efe6f75e9c3e00",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Circles - Outlined Column Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Circles%20-%20Outlined%20Column%20Color",
+      "device_main_sha256": "97819612a715e87d177ae77bda5215843691e2e590535ddd433126d62662f0a6",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Circles - Patchwork Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Circles%20-%20Patchwork%20Color",
+      "device_main_sha256": "6c4b0d979c9fc5ceafa68a0854631f141204135f2bee8fdd2fb469973e3bf019",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Circles - Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Circles%20-%20Uniform%20Color",
+      "device_main_sha256": "8fa8f0c2738486c7afbaeee33622994ea8f48cc2ab819c503c7aab7d01f9e539",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Polygons - Column Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Polygons%20-%20Column%20Color",
+      "device_main_sha256": "bc6cea72071de33f9975dfc90b21b5677f0d2d57fe9885845f4b536d0c503e53",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Polygons - Patchwork Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Polygons%20-%20Patchwork%20Color",
+      "device_main_sha256": "a1f9e5820a14141b8d4871e9807cb8106c9f6680775a4226fe5312d2533a71a2",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Polygons - Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Polygons%20-%20Uniform%20Color",
+      "device_main_sha256": "7593af10a68fc4b1c323ae24924d5a4f7b8a65dbc3ee44e64d1df36235d72268",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Slide Square - Filled Column Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Slide%20Square%20-%20Filled%20Column%20Color",
+      "device_main_sha256": "b2c716d8ba1727aa5e06c2916404874169437f74a6f664aecdd360afa5b505f7",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Slide Square - Filled Patchwork Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Slide%20Square%20-%20Filled%20Patchwork%20Color",
+      "device_main_sha256": "bf4aa5ae6fd40c2750f57c45769b83a95561556024d1ffaa98cba97e76ee4cbb",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Slide Square - Filled Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Slide%20Square%20-%20Filled%20Uniform%20Color",
+      "device_main_sha256": "fbd4c92527d500d388741ce6ac475f6bde3bd7bf2b65254e04649d518704386d",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Slide Square - Unfilled Column Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Slide%20Square%20-%20Unfilled%20Column%20Color",
+      "device_main_sha256": "7546fc764628319b4b797ad3b01263a03c3d0aad602aadc632829f9412a31e7f",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Slide Square - Unfilled Patchwork Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Slide%20Square%20-%20Unfilled%20Patchwork%20Color",
+      "device_main_sha256": "0e6c428186d13afc38cd329ffd857d7378b8d5fe2f94c528ca882a2556497fd0",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Slide Square - Unfilled Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Slide%20Square%20-%20Unfilled%20Uniform%20Color",
+      "device_main_sha256": "398940a5a7685c5264b882d73c8ed4dfd60a9523d9bd80f100a032a921591d2b",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Triangles - Filled Column Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Triangles%20-%20Filled%20Column%20Color",
+      "device_main_sha256": "1b448f33e198ad36e265305c09c4db3d7f960160445168c917df65260c8d07ba",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Triangles - Filled Patchwork Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Triangles%20-%20Filled%20Patchwork%20Color",
+      "device_main_sha256": "bb7a6169af87ecca269ef716535bf1af8cb2cece37c014bc6f8e89c66bcf9909",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Triangles - Filled Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Triangles%20-%20Filled%20Uniform%20Color",
+      "device_main_sha256": "872cedf948441833f9db2cc12012c5ca1df4a2d6c808e8ddbebdf28afabaa503",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Triangles - Unfilled Column Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Triangles%20-%20Unfilled%20Column%20Color",
+      "device_main_sha256": "415e578e3817e136984ff9f7cc320b8aae7c711408097052965a2a5eae4da68c",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Triangles - Unfilled Patchwork Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Triangles%20-%20Unfilled%20Patchwork%20Color",
+      "device_main_sha256": "d09e5abb9c04a5137435bd88b7e1eb83b804c56f128e33d1212960c112533743",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Grid Triangles - Unfilled Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Grid%20Triangles%20-%20Unfilled%20Uniform%20Color",
+      "device_main_sha256": "82297020f38794efac073a879df3b634140f9363f7dd4b3dab170caee574329c",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Hertsi",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/s-hertsi/",
+      "device_main_sha256": "4caff020882735ecf1114cb2be35c91e96db88894612ae40b4466b68ca58bbfe",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "twang69"
+      ],
+      "license": "EUPL-1.1"
+    },
+    {
+      "mode": "S - Horizontal + Trails",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Horizontal%20%2B%20Trails",
+      "device_main_sha256": "042b90f3e699215651ed67a5a882aa581baa50c07e9de22ca10670c47d3ed583",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Line Bounce Four - LFO Alternate",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Line%20Bounce%20Four%20-%20LFO%20Alternate",
+      "device_main_sha256": "e79d02fe9fe6f59529e155763d4db96f421feb3c3bed3d532f305df357c37c80",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Line Bounce Two - LFO Alternate",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Line%20Bounce%20Two%20-%20LFO%20Alternate",
+      "device_main_sha256": "acad5b2df8d03ee884ef80c5bc30aa2c730e40e161c62f9f66c453d90c0c1eb1",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Line Traveller",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Line%20Traveller",
+      "device_main_sha256": "906eff683480d263428f73fbf242a91ed80b9102f958b1f9812c5ce47bf3a39e",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Lissajous Weaver",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/s-lissajous-weaver/",
+      "device_main_sha256": "9b9b9c3877cdcebba6d16ae75891fff780ca0d6b2ee7de9cb129b3fc4ab3ba9e",
+      "license_hint": "# BSD 2-Clause License",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-2-Clause"
+    },
+    {
+      "mode": "S - Mirror Grid",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Mirror%20Grid",
+      "device_main_sha256": "48d194f5e45b2a430fb10775a2b8ab2441f29f0f3a0870e6fa529e6e674edaa3",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Mirror Grid - Inverse",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Mirror%20Grid%20-%20Inverse",
+      "device_main_sha256": "bf837e835be4bb5c18819cd981162cf5902aed8a4b4ba707f72f909d1f6dbe5d",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Nested Ellipses - Filled",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Nested%20Ellipses%20-%20Filled",
+      "device_main_sha256": "9c46b0baf0ec62437939988b62192e943e9c710138f0d1331cd159f3683d98f3",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Oscilloscope",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Oscilloscope",
+      "device_main_sha256": "2f6336cb56eef0a77b46f6a156ccf3acdea1b1035a0fd75c70c1418841a4d977",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Perspective Lines",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Perspective%20Lines",
+      "device_main_sha256": "971369608f51193ed6c29398058ee593d562c3ae51370060fec9e07fdaa2dfdb",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Radial Scope - Rotate Stepped Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Radial%20Scope%20-%20Rotate%20Stepped%20Color",
+      "device_main_sha256": "6978ed3f28c3c94bb4b60e3fbce7bd57baa14ed8dcc8b9cb5ca1ce9e4f859b00",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Radial Scope - Rotate Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Radial%20Scope%20-%20Rotate%20Uniform%20Color",
+      "device_main_sha256": "99965b105899fa8bc1f3ff2efe631c4044a88265339a8e8a6bb243b36e85f1ed",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Radiating Square - Stepped Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Radiating%20Square%20-%20Stepped%20Color",
+      "device_main_sha256": "132a5b22a0fbcefb554a1122a5f91f3a91841ca9f402b085c6aca84613be21e4",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Radiating Square - Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Radiating%20Square%20-%20Uniform%20Color",
+      "device_main_sha256": "8c0fa9372dc1202999d42e7635971a917f13d5643c9b53c593abb3474e4e071d",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Sound Jaws - Stepped Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Sound%20Jaws%20-%20Stepped%20Color",
+      "device_main_sha256": "1235b3332093130dcfc961444bafbe19ea46801e7dd0dff6fd1ab87f579c6c32",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Sound Jaws - Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Sound%20Jaws%20-%20Uniform%20Color",
+      "device_main_sha256": "1eb9032851077dcb192e938f1c5e2c674117000dc560baa94e343aa6da4da031",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Spinning Discs",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Spinning%20Discs",
+      "device_main_sha256": "b1573a93c22c0544808f91b15c269d238669bf345aaccb9e5cd937ced813bba6",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Square Shadows - Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Square%20Shadows%20-%20Uniform%20Color",
+      "device_main_sha256": "91b2507ab30ffa99a22f8f78bc01cea7d0a1bc4969955f8742d6c37436770303",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Stereo Interference",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/s-stereo-interference/",
+      "device_main_sha256": "6d58ebe810e5aa67ccc69e22d32b25eac928b094e958241e1667c95c0e0cd6c4",
+      "license_hint": "# BSD 2-Clause License",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-2-Clause"
+    },
+    {
+      "mode": "S - Strange Attractor",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/s-strange-attractor/",
+      "device_main_sha256": "b527361395d2758767387c0007584b370095673e8d9b5fc11d1d4efb2a23caec",
+      "license_hint": "# BSD 2-Clause License",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-2-Clause"
+    },
+    {
+      "mode": "S - Three Scopes",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Three%20Scopes",
+      "device_main_sha256": "d4e50b12848984808e0a13396caf81b57e908530da62ae16bc55395e8a92dcff",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Two Scopes",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Two%20Scopes",
+      "device_main_sha256": "0bb10447231bae0a5edaf785fd7da36dd25d8c87d241e7b6e2e45bb2594326ff",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - X Scope",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20X%20Scope",
+      "device_main_sha256": "09514a4ac27bed504d0827c66d44638b2266dce489c5e0d24329b4cc4020e88b",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "S - Zoom Scope",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/S%20-%20Zoom%20Scope",
+      "device_main_sha256": "8fac1e60893da8aaed97a4e82a7ee67067f046460f2e66bb94ba8f6a749fe527",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "Sequins",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/sequins/",
+      "device_main_sha256": "4f1a65529fc0513b06a4d38168da269d8cdcd9fdb018f028ee384c66e36bcfce",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "kilgore"
+      ],
+      "license": "Unlicense"
+    },
+    {
+      "mode": "SQUAGELS",
+      "category": "Community / permission unresolved",
+      "status": "catalog only",
+      "source": "https://patchstorage.com/squagels/",
+      "device_main_sha256": "0133fb91dd7d2f3a546e64e065b24415eca4d633592684f27266d6d5771c84d9",
+      "license_hint": "No verified license/source recorded"
+    },
+    {
+      "mode": "T - Bits H - Row Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Bits%20H%20-%20Row%20Color",
+      "device_main_sha256": "a7734e4c1935d890fe952aa5abc06cc40475b447ac063048309a41ddd0c30b99",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Bits H - Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Bits%20H%20-%20Uniform%20Color",
+      "device_main_sha256": "641c67f8c32375bf0aaff9966c5a64c4bcdb50a07dc54ab2fbb931d378b37ff6",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Bits V - Column Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Bits%20V%20-%20Column%20Color",
+      "device_main_sha256": "979f3b24e765e6807825749ff5c51b9baf2ca64de4a53ebde651c200f11bd981",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Bits V - Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Bits%20V%20-%20Uniform%20Color",
+      "device_main_sha256": "85fb7b00cdf2df7ba14ef26673023df260df56dacdbe713a964d77d819f4b82e",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Density Units",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Density%20Units",
+      "device_main_sha256": "5a563bc40f93ea848c94a79cca09fedaa8f73e5cfc83fd145d6d26cdebd52c91",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Draws Hashmarks - Angled Stepped Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Draws%20Hashmarks%20-%20Angled%20Stepped%20Color",
+      "device_main_sha256": "93aa1fbae3d45ab2901161ba7f1e73c07026d1b848478e29756913793eabd339",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Draws Hashmarks - Angled Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Draws%20Hashmarks%20-%20Angled%20Uniform%20Color",
+      "device_main_sha256": "2654cb8d958c7a7a625fb99f8d8942fda9c17a759b331e354eda77bf00ea0461",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Draws Hashmarks - Stepped Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Draws%20Hashmarks%20-%20Stepped%20Color",
+      "device_main_sha256": "336db6290b552ea2188d1a30be83cb1ffbd71784910956af8d9dcfbe766b65e3",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Draws Hashmarks - Uniform Color",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Draws%20Hashmarks%20-%20Uniform%20Color",
+      "device_main_sha256": "3446b19c43b8929070b8d958221d89c4744d47a587da999107366d2b3d771017",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Font Patterns",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Font%20Patterns",
+      "device_main_sha256": "b6910cc460c481b46f5c69a6ecea9e9709cdc1c34675aa93c3180d587007dd68",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Font Recedes",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Font%20Recedes",
+      "device_main_sha256": "0164c4613970f99e083da473a9570f3350eaf2d09773937171bd4f56d6d1812f",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Line Rotate - Trails",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Line%20Rotate%20-%20Trails",
+      "device_main_sha256": "4e616a8350ad7e7ce4f90a1d082ace945668f9a6105cbd993209fca581849fdd",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Living Voronoi",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/t-living-voronoi/",
+      "device_main_sha256": "d6c1e13fb40b93080ff081cce26d8542671f9073c16c445011c976da3a443a9d",
+      "license_hint": "# BSD 2-Clause License",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-2-Clause"
+    },
+    {
+      "mode": "T - Magnify Cloud - LFO",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Magnify%20Cloud%20-%20LFO",
+      "device_main_sha256": "f3f0154b80594944a8db919637a364a7229b201295c133f5b3711e9b0fa5b911",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Marching Four - Image",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Marching%20Four%20-%20Image",
+      "device_main_sha256": "f91210bdbc1a34d16294e2f2cafa92067b492d97c1bf855cf9675bd5a15cad86",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Migrating Circle Grids",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Migrating%20Circle%20Grids",
+      "device_main_sha256": "8b16cd49540f4a9ee1f17db11b59d3135b251b168d139b762eb0b2b9e48f197c",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Origami Triangles",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Origami%20Triangles",
+      "device_main_sha256": "aaf8553b6399a3aa980b35c5a6967c3901da5d5aea394f0e9c8ce576ec3f49be",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Reaction Diffusion",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/t-reaction-diffusion/",
+      "device_main_sha256": "746162863d9f0b17e4a3314f07da99ac0389227f920af6d0085c80dfa450a2c0",
+      "license_hint": "# BSD 2-Clause License",
+      "authors": [
+        "guerrilladigital"
+      ],
+      "license": "BSD-2-Clause"
+    },
+    {
+      "mode": "T - Tiles - Filled",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Tiles%20-%20Filled",
+      "device_main_sha256": "6b7edd8e0da0fcffdb467390f4561df6f7723b1d7b5fe11f9901a21e0471938f",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Tiles - Outlines",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Tiles%20-%20Outlines",
+      "device_main_sha256": "cd1b7e27a76d9be5e4496829a95b72044180da380eb81f7b5eb3c1e3001ecde1",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Tri Tri Tri",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/t-tri-tri-tri/",
+      "device_main_sha256": "c52c95c530b70c0cee06d19e394deacbb03e5bdc50c3383e97bfb348a6659c42",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "cuppofruppo"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "T - Trigon Traveller",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Trigon%20Traveller",
+      "device_main_sha256": "6de870a9f0233969c17f8b7f371ec018d04d70a64a032bddabb2bd47ae6188ab",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "T - Woven Feedback",
+      "category": "Critter & Guitari",
+      "status": "bundled",
+      "source": "https://github.com/critterandguitari/EYESY_Modes_OSv3/tree/22b5bc72a123a6aeb4be7d84b8f4b4a99ef294d6/T%20-%20Woven%20Feedback",
+      "device_main_sha256": "44e10adaf2a1f88861189872d0381a9841a9894016e12d46fdd3fdfbacefe586",
+      "license": "BSD-2-Clause",
+      "authors": [
+        "Critter & Guitari"
+      ]
+    },
+    {
+      "mode": "Tempestuous",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/tempestuous/",
+      "device_main_sha256": "860330ebe43a14e78300523329c3cccfe0c53863814a0acde8a45146134a3422",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "damian_golfinopoulos",
+        "shotsy"
+      ],
+      "license": "Unlicense"
+    },
+    {
+      "mode": "Truchet Pulse",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/truchet-pulse/",
+      "device_main_sha256": "052f437ea083659d295c4fa9485a25e2aad1ca27d05819e1163b9e4a5da39641",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "Unknown Pleasures Visualization",
+      "category": "Community / permission unresolved",
+      "status": "catalog only",
+      "source": "https://patchstorage.com/unknown-pleasures-visualization/",
+      "device_main_sha256": "e292c5c84d614f2058972cb672f2c4a6a3f6c45ad360107848769cb817cc15a3",
+      "license_hint": "No verified license/source recorded"
+    },
+    {
+      "mode": "V4P0R",
+      "category": "Community",
+      "status": "bundled",
+      "source": "https://patchstorage.com/v4p0r/",
+      "device_main_sha256": "d2d36c93f0fc5ee40e7ffff0b700c1e37d2730fe7b4152c2fda87588d8cbe57c",
+      "license_hint": "No verified license/source recorded",
+      "authors": [
+        "turbulent-resonant-colon"
+      ],
+      "license": "WTFPL"
+    },
+    {
+      "mode": "Virtual ADN",
+      "category": "Community / permission unresolved",
+      "status": "catalog only",
+      "source": "https://patchstorage.com/virtual-adn/",
+      "device_main_sha256": "dfaab3aa96536eeec8ce7ee3dd1fe7dadc4734787d5e98adcdfdded1e09b41b4",
+      "license_hint": "No verified license/source recorded"
+    },
+    {
+      "mode": "S - Hyrule Drift",
+      "category": "Community / permission unresolved",
+      "status": "catalog only",
+      "source": "",
+      "device_main_sha256": "b502a8822319805b6bfa46d71ac96bf24969fca6c346c30fd45c16e1b1462369",
+      "license_hint": "No verified license/source recorded"
+    },
+    {
+      "mode": "Z - Engine Lab",
+      "category": "FreeMark / Stereopsis",
+      "status": "bundled",
+      "source": "https://github.com/FreeMark/eyesy-stereopsis",
+      "device_main_sha256": "8fcabbbc1cad156ff84624bd83f4d777c87bbf73aa565cc44a5eade87711fb5f"
+    }
+  ],
+  "excluded_by_request": [
+    "S - Audio Matrix Rain",
+    "S - Nested Ellipses - Outlines",
+    "Spirograph",
+    "Swarm - Kaleidoscope",
+    "Swarm - Kaleidoscope 3D",
+    "T - Spiral Alley"
+  ]
+}

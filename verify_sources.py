@@ -14,9 +14,11 @@ def check():
         kernel=mode/'swarm.c'
         if kernel.exists():
             groups['Triangle' in mode.name].add(hashlib.sha256(kernel.read_bytes()).hexdigest())
-    assert len(modes)==22
+    catalog=root/'curated-modes.json'
+    expected=sum(r['status']=='bundled' for r in json.loads(catalog.read_text())['modes']) if catalog.exists() else 22
+    assert len(modes)==expected,(len(modes),expected)
     assert all(len(group)==1 for group in groups.values()),'Mixed native renderer revisions'
     assert (root/'Modes/Swarm - Text/Futura_Heavy_Oblique.otf').is_file()
-    print('PASS: hashes, Python syntax, 22 modes, coherent round/triangle kernels, bundled font.')
+    print('PASS: hashes, Python syntax, %d modes, coherent round/triangle kernels, bundled font.'%expected)
     print('This does not replace integration testing on EYESY.')
 if __name__=='__main__':check()

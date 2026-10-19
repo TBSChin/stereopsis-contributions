@@ -1715,6 +1715,10 @@ static void layout(int st, const float *fft, int nfft, float fft_hz, const float
         float ca = cosf(t * 0.1f), sa = sinf(t * 0.1f), cb = cosf(S.tumble), sb = sinf(S.tumble);
         const float keep = 1.0f - smooth;
         for (int i = 0; i < N; i++) {
+            /* Permute spectral assignments across the Fibonacci sphere, rather
+             * than stacking bass at one pole and treble at the other.
+             * 1597 is coprime to the shared 4096-particle count: every
+             * original band assignment is retained, just spatially dispersed. */
             int band_i = (i * 1597) % N;
             float mag = fft ? c01(fft[S.bin_a[band_i]]) * keep : 0.0f;
             float r = 2.3f + mag * 2.1f + bass * 0.35f * keep;
